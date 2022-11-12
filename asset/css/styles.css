@@ -413,8 +413,10 @@ html{
     width: 100%;
 }
 /*Map contact*/
-
-.map-conten-section img{
+.map-content-section{
+    width: 100%;
+}
+.map-content-section img{
     width: 100%;
 }
 #footer {
