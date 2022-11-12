@@ -150,12 +150,12 @@ html{
 #slider {
     margin-top: 46px;
     padding-top: 50%;/*50% chiều cao của chính nó !important*/
-    background: url('/asset/img/slider/silder1.jpg') top center / cover no-repeat ;
+    background: url('/asset/img/Slider/brand8.jpg') top center / cover no-repeat ;
 }
 #slider .text-content{
    
     bottom: 48px;
-    color: #dd6508;
+    color: var(--black--color);
     width: 100%;
     text-align: center;
 }
